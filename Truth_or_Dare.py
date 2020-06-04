@@ -1,6 +1,5 @@
 #-*-coding:latin-1-*
 import os 
-from tr_da.fonctions import *
 
 print("\t\t--------------------- BIENVENU DANS ACTION OU VɉRITɉ ---------------------")
 
